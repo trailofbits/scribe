@@ -22,6 +22,12 @@ Silicon. Models download automatically on first run (no account needed).
 
 ## Install
 
+As a global tool:
+```sh
+uv tool install https://github.com/trailofbits/scribe
+```
+
+For local development:
 ```sh
 uv sync
 ```
